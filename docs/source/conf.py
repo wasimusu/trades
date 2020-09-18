@@ -14,11 +14,11 @@ import os
 import sys
 
 sys.path.insert(0, os.path.abspath('../..'))
-sys.path.insert(0, os.path.abspath('../python_project'))
+sys.path.insert(0, os.path.abspath('../trades'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'python_project'
+project = 'trades'
 copyright = '2020, Wasim Akram Khan'
 author = 'Wasim Akram Khan'
 

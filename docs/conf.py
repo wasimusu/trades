@@ -14,7 +14,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.abspath('../..'))  # root of the project
-sys.path.append(os.path.abspath('../../python_project'))  # dir containing source files
+sys.path.append(os.path.abspath('../../trades'))  # dir containing source files
 
 # -- Project information -----------------------------------------------------
 
@@ -27,7 +27,7 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 
-project = 'python_project'
+project = 'trades'
 copyright = '2020, Wasim Akram Khan'
 author = 'Wasim Akram Khan'
 

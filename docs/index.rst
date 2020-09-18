@@ -18,7 +18,7 @@ sample.py
 .. code-block:: python
    :name: sample.py
 
-    from python_project import mathlib
+    from trades import mathlib
 
     sum = mathlib.add(1, 1)
     print(f"Sum : {sum}")
@@ -33,10 +33,10 @@ This package provides two different types of APIs.
 
 Math Lib
 ========
-.. automodule:: python_project.mathlib
+.. automodule:: trades.mathlib
    :members:
 
 String Lib
 ==========
-.. automodule:: python_project.strlib
+.. automodule:: trades.strlib
    :members:

@@ -2,8 +2,8 @@
 Objective: use functions of the package we built
 """
 
-from python_project import mathlib
-from python_project import strlib
+from trades import mathlib
+from trades import strlib
 
 
 def nums_and_strings():
